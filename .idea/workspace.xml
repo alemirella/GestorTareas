@@ -4,17 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a163fb71-3018-4f4c-991a-ee7d348a5b38" name="Changes" comment="Versión actualizada">
-      <change afterPath="$PROJECT_DIR$/.idea/GestorTareas.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/logica/gestor_tareas.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/vista/gui_gestor_tareas.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/test_gestor_tareas.py" afterDir="false" />
-    </list>
+    <list default="true" id="a163fb71-3018-4f4c-991a-ee7d348a5b38" name="Changes" comment="Versión actualizada" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -23,6 +13,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "alemirella"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/talitakeren/Gestor-de-Tareas.git",
+    "accountId": "04ca0af1-a73e-4d4d-bebc-87808a633ecb"
+  }
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 7
 }</component>
@@ -92,8 +94,25 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1730770954500</updated>
-      <workItem from="1730770960254" duration="3896000" />
+      <workItem from="1730770960254" duration="4241000" />
     </task>
+    <task id="LOCAL-00001" summary="Versión actualizada">
+      <option name="closed" value="true" />
+      <created>1730784407342</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1730784407343</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Versión actualizada">
+      <option name="closed" value="true" />
+      <created>1730784539768</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1730784539768</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
